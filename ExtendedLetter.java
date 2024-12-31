@@ -1,6 +1,6 @@
 /**
  * This is a child class of Letter.
- * @author Ariana Feng
+ * @author Ariana F
  * @since 2023-07-16
  */
 public class ExtendedLetter extends Letter {
