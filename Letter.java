@@ -2,7 +2,7 @@
  * This class represents a single letter(deconstructed from a string) that will be used in the game.
  * Each game letter also has an accompanying integer label which indicates whether it is used, unused,
  * or correct with respect to the mystery word.
- * @author Ariana Feng
+ * @author Ariana F
  * @since 2023-07-16
  */
 public class Letter {
