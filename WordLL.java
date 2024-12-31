@@ -2,7 +2,7 @@
  * This class is a central repository for information about a WordLL game: It stores a mystery word
  * and all word guesses tried so far. It keeps a history of the past word guesses in a linked
  * structure.
- * @author Ariana Feng
+ * @author Ariana F
  * @since 2023-07-16
  * 150 Word Summary below
  */
