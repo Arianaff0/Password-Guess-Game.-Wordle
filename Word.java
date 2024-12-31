@@ -2,7 +2,7 @@
  * This class represents a word in the game comprised of Letter objects
  * which is stored in a linked list formed by objects in class LinearNode.
  * Each node stores a Letter.
- * @author Ariana Feng
+ * @author Ariana F
  * @since 2023-07-16
  */
 public class Word {
